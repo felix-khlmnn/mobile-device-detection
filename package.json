@@ -1,6 +1,6 @@
 {
   "name": "mobile-device-detection",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package can be used to determine whether a client of a http server is using a mobile or a desktop computer.",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,9 @@
     "detection"
   ],
   "author": "dixi21",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dixi18/mobile-device-detection.git"
+  }
 }
