@@ -1,5 +1,5 @@
 # mobile-device-detection
- This simple module allows you to find out whether a client of an http server you run is using a mobile device or not.
+ This simple module allows you to find out whether a client of an http server you run is using a mobile device or not. Also, the module does not require any dependencies, as it only uses the preinstalled http module.
 
 ## Functionality
 The function "checkIfMobile" returns a boolean. The value is "true", if the client is using a mobile device. 
