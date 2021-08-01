@@ -1,0 +1,16 @@
+{
+  "name": "mobile-device-detection",
+  "version": "1.0.0",
+  "description": "This package can be used to determine whether a client of a http server is using a mobile or a desktop computer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http",
+    "mobile",
+    "detection"
+  ],
+  "author": "dixi21",
+  "license": "MIT"
+}
