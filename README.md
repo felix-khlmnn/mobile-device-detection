@@ -12,7 +12,7 @@ const mdd = require("mobile-device-detection");
 
 http.createServer((req, res) => {
     console.log(mdd.checkIfMobile(req));
-    res.end()
+    res.end();
 }).listen(8080);
 ```
 
